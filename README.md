@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sávio-soares-69a462198/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/savios.7/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](SavioSoares#1022)
-[![Gmail](]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dsaviosnogueire@gmail.com)
 
 ![Sávio GitHub stats](https://github-readme-stats.vercel.app/api?username=SavioSoares7&show_icons=true&theme=radical)
 
